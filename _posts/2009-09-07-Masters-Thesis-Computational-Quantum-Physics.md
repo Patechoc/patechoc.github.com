@@ -24,14 +24,13 @@ The reliability of a single Slater determinant approximation for the ground stat
 * [QDot](http://folk.uio.no/patrime/src/qdot.tar.gz)
 
 ### Citation
-    
-    @mastersthesis{
-	author = {Merlot, Patrick},
-	title = {{Many-Body Approaches to Quantum Dots}},
-	school = {University of Oslo},
-	year = {2009},
-	keywords = {Hartree-Fock,Many-body methods,Many-body systems,Quantum dots},
-	pages = {127},
-	url = {http://urn.nb.no/URN:NBN:no-26083}
-    }
 
+    @mastersthesis{
+        author = {Merlot, Patrick},
+        title = {Many-Body Approaches to Quantum Dots},
+        school = {University of Oslo},
+        year = {2009},
+        keywords = {Hartree-Fock,Many-body methods,Many-body systems,Quantum dots},
+        pages = {127},
+        url = {http://urn.nb.no/URN:NBN:no-26083}
+    }
