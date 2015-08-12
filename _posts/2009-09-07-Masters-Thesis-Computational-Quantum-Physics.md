@@ -15,6 +15,13 @@ An Hartree-Fock code for electrons trapped in a single harmonic oscillator poten
 
 The reliability of a single Slater determinant approximation for the ground state of closed shell systems as function of varying interaction strength has been investigated and we found that the Hartree-Fock method, compared with large-scale diagonalization methods, has a limited range of applicability as function of the interaction strength and increasing number of electrons in the dot, indicating a break of the computational technique before entering the limit of validity of the closed-shell model. 
 
+### Presentation
+
+* [pdf format](http://folk.uio.no/patrime/src/slides.pdf)
+
+### C++ Simulator archive
+
+* [QDot](http://folk.uio.no/patrime/src/qdot.tar.gz)
 
 ### Citation
     
