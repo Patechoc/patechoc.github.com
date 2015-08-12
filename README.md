@@ -1,22 +1,14 @@
-A github:pages blog using jekyll
-================================
+# My github:pages blog using jekyll
 
-Getting a jekyll based github:pages blog up and running was more effort than I expected (not a 5 minute job). This repo contains everything you need to get started, including forks of the default github:pages themes as submodules.
 
-For github:pages, github requires a repo named USERNAME.github.com, you can fork ghpblog and rename it, or do what is described in the installation section. Remember that the themes are forks of the default github:pages themes included in this repo as submodules.
+This blog is forked from [Christopher Poole repo](https://github.com/christopherpoole/ghpblog).
 
-Installation
+
+## Update
 ------------
 
-1. Fork on github
-2. Create a new repo USERNAME.github.com
-3. git clone https://github.com/USERNAME/USERNAME.github.com.git
-4. git remote add upstream https://github.com/USERNAME/ghpblog.git
-5. git fetch upstream
-6. git merge upstream/master
-7. git submodule init
-8. git submodule update --recurisve
-9. git push https://github.com/USERNAME/USERNAME.github.com.git
+1. git submodule init
+2. git submodule update --recursive
 
 Usage
 -----
