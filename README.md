@@ -1,7 +1,7 @@
 # My github:pages blog
 
-
-Originally forked from [Christopher Poole repo](https://github.com/christopherpoole/ghpblog).
+Just click here [http://patechoc.github.io/](http://patechoc.github.io/).
+Github blog originally forked from [Christopher Poole repo](https://github.com/christopherpoole/ghpblog).
 
 
 ## Update
