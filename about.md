@@ -17,7 +17,8 @@ comments: false
 # [jekyll](https://github.com/jekyll/jekyll)
 {% endif %}
 
-  I want to help liberate data on cities, countries, public health and on inequalities to empower people and improve governance.
   Proud dad, computational scientist and engineer in electronics, I enjoy programming... anything!
-  I believe in happiness at work and I am just looking for a place where I can improve
-  and share my skills among great colleagues, work on mind blowing projects. And I love coffee!
+  I want to help liberate and illustrate data on cities, countries, public health and inequalities in order to improve everyone's life, empower people and improve governance.
+  I believe in happiness at work and I am just looking for a place where I can develop
+  and share my skills among great colleagues, while working on mind blowing projects.
+  And I love coffee!
