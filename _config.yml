@@ -9,10 +9,10 @@
 title: Patrick Merlot
 email: patrick.merlot@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+  I want to help liberate data on cities, countries, public health, inequalities to empower people and improve governance.
   Proud dad, computational scientist and engineer in electronics, I enjoy programming... anything!
-  I believe in happiness at work. To reach that, I am today looking for a place where I can improve
-  and share my Data Scientist's skills among great colleagues, work on mind blowing projects while 
-  getting some time to develop my own ideas. And I love coffee!
+  I believe in happiness at work and I am just looking for a place where I can improve
+  and share my skills among great colleagues, work on mind blowing projects. And I love coffee!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Patechoc
