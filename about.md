@@ -17,8 +17,11 @@ comments: false
 # [jekyll](https://github.com/jekyll/jekyll)
 {% endif %}
 
-  Proud dad, computational scientist and engineer in electronics, I enjoy programming... anything!
-  I want to help liberate and illustrate data on cities, countries, public health and inequalities in order to improve everyone's life, empower people and improve governance.
-  I believe in happiness at work and I am just looking for a place where I can develop
-  and share my skills among great colleagues, while working on mind blowing projects.
+  Proud dad, computational scientist and engineer in electronics, I enjoy programming... anything, data and [technology at its best](https://www.youtube.com/watch?v=b-jTRkDGTMg)!
+
+  Today I want to help liberate and illustrate data for cities, countries, public health and inequalities in order to improve everyone's life, empower people and improve governance.
+  
+  I believe in happiness at work and I am just looking for mind blowing projects where I can develop/share  
+  my skills among great colleagues.
   And I love coffee!
+  Get in touch!
