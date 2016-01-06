@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Patrick Merlot</title>
+  <link href="http://patechoc.github.io/atom.xml" rel="self"/>
+  <link href="http://patechoc.github.io/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://patechoc.github.io/</id>
+  <author>
+    <name>Patrick Merlot</name>
+    <email>http://patechoc.github.io/</email>
+  </author>
+  {% for post in site.posts limit:10 %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="http://patechoc.github.io{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://patechoc.github.io/{{ post.id }}</id>
+    <content type="html">{{ post.content | xml_escape }}</content>
+    <author>
+      <name>Patrick Merlot</name>
+      <uri>http://patechoc.github.io/about/</uri>
+    </author>
+  </entry>
+  {% endfor %}
+</feed>
