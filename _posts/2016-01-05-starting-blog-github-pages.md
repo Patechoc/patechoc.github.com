@@ -1,5 +1,5 @@
 ---
-title: "Blogg in construction :)"
+title: "Blog in construction :)"
 layout: post
 description: "a blog on Github-Pages to write about projects, interests, and keep records of them."
 categories: jekyll update blogg github
