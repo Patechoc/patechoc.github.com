@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="content{% if page.photo_url %} photo-post{% endif %}">
+  <div class="post single">
+    {% unless page.title_hidden %}
+    <h1>{{ page.title }}</h1>
+    {% endunless %}
+    <div class="body">
+       <section>
+         {% if page.file %}
+         <a href="/res/pdfs/{{ page.file }}">
+           <img src="/res/pdf.png" align="right">
+         </a>
+         {% endif %}
+         {{ page.journal }}</br></br>
+         {% if page.authors %}
+         Authors: {{ page.authors }}</br>
+         {% endif %}
+         {% if page.school %}
+         School: {{ page.school }}</br>
+         {% endif %}
+         {% if page.date %}
+         Publication date: {{ page.date | date_to_long_string }}</br>
+         {% endif %}
+         <hr>
+         {{ content }}
+       </section>
+    </div>
+    <!-- <div class="breaker"></div> -->
+    <div class="breaker"></div>
+    <!-- <info class="after">
+<div class="fb-like" data-href="http://patechoc.github.io{{ page.url }}" data-send="false" data-width="550" data-show-faces="false" data-font="arial"></div>
+    </info> -->
+
+  {% if page.disqus_comments %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      window.disqus_identifier = {% if page.tumblr_id %}"{{ page.tumblr_id }}"{% else %}"{{ page.id }}"{% endif %};
+    </script>
+    <script async src="http://hunch.disqus.com/embed.js"></script>
+    <noscript>Please enable JavaScript to view the
+      <a href="http://disqus.com/?ref_noscript=hunch">comments powered by Disqus.</a>
+    </noscript>
+    {% include disqus.html %}
+  </div>
+  {% endif %}
+  </div>
+</div>
+{% include autoreload-in-debug.html %}
