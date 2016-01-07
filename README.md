@@ -1,0 +1,1 @@
+Thanks a lot to [Rasmus](http://rsms.me/about/) and to [Christopher](http://www.christopherpoole.net) for their excellent design skills.
