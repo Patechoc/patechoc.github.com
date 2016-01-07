@@ -1,7 +1,7 @@
 ---
 title: "Blogg in construction :)"
 layout: post
-description: "Starting a blog on Github-Pages to write about my projects, my interests, and keep a (public) trace of them."
+description: "a blog on Github-Pages to write about projects, interests, and keep records of them."
 categories: jekyll update blogg github
 ---
 
