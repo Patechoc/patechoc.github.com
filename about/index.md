@@ -13,7 +13,7 @@ I enjoy [technology at its best](https://www.youtube.com/watch?v=b-jTRkDGTMg), d
 
 Today I want to help liberate and illustrate data to improve everyone's life, empower people and improve governance.
 
-I believe in happiness at work and I am looking for mind blowing projects where I can develop/share my skills among great colleagues.
+I nurture happiness at work. I believe innovation comes from interests, autonomy and mastery: I look for mind blowing projects where I can develop/share my skills among great colleagues.
 
 I love coffee and fresh snow :)
 
