@@ -3,7 +3,10 @@ title: "CityBikes – Forecasting bikes/docks availability of a bike-sharing sys
 layout: post
 #photo_url: "/res/bikeShare.jpg"
 description: ""
-categories: jekyll update blogg github
+#categories: Blog "Data Analysis" Ethics Privacy CivicTech IoT "Smart Cities" Telecom "Data Science" Visualization "Data Processing" Tools
+#tags: Spark Kafka Zookeeper "Jupyter/iPython Notebook" Pandas ...
+categories: "Data Analysis" CivicTech "Smart Cities" "Data Science" Visualization "Data Processing"
+tags: cityBikes "Data Science" CivicTech "Smart Cities" "Data Analysis""Data Processing" Visualization
 ---
 
 ![http://www.bayareabikeshare.com/](/res/bikeShare.jpg)

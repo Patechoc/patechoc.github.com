@@ -3,6 +3,11 @@ title: "Blog in construction :)"
 layout: post
 description: "a blog on Github-Pages to write about projects, interests, and keep records of them."
 categories: jekyll update blogg github
+
+#categories: "Data Analysis" Ethics Privacy CivicTech IoT "Smart Cities" Telecom "Data Science" Visualization "Data Processing" Tools
+#tags: Spark Kafka Zookeeper "Jupyter/iPython Notebook" Pandas 
+categories: Blog
+tags: Blog "Github-Pages" Jekyll
 ---
 
 I recently decided to start a blog with [Jekyll](http://jekyllrb.com/) and [GitHub Pages](http://pages.github.com/).
