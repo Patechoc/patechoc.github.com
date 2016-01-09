@@ -4,7 +4,7 @@ description: 'Simulating extremely tiny systems which follows the laws of Quantu
 layout: minimal_publication
 school: "University of Oslo"
 journal: "Masters Thesis"
-published: true
+academic: true
 file: Merlot - MSc - Computational_Physics.pdf
 ---
 

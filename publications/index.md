@@ -7,7 +7,7 @@ layout: default
 <div class="posts">
   <div class="content full-bleed" id="recent-posts">
   {% for post in site.posts limit:50 %}
-  {% if post.published == true %}
+  {% if post.academic == true %}
    <a href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <div class="padded-content">
         <div class="title">{{ post.title }}</div>

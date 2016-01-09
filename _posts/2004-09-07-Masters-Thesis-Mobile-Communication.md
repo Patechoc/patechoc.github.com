@@ -4,7 +4,7 @@ description: "This can be read as ... Optimizing/Deciding the allocation of Tele
 layout: minimal_publication
 school: "Aalborg University"
 journal: "Masters Thesis"
-published: true
+academic: true
 categories: Telecom programming simulations radiowaves
 ---
 
