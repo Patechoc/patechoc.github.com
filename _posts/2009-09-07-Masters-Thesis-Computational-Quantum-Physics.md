@@ -6,10 +6,8 @@ school: "University of Oslo"
 journal: "Masters Thesis"
 academic: true
 file: Merlot - MSc - Computational_Physics.pdf
-#categories: "Data Analysis" Ethics Privacy CivicTech IoT "Smart Cities" Telecom "Data Science" Visualization "Data Processing" Tools
-#tags: Spark Kafka Zookeeper "Jupyter/iPython Notebook" Pandas 
-categories: Academic "Computational Physics" Physics
-tags: Academic "Computational Physics" Physics "Quantum Dots"
+categories: "Academic, Computational Physics, Physics"
+tags: "Academic, Computational Physics, Physics, Quantum Dots"
 ---
 
 ### Abstract

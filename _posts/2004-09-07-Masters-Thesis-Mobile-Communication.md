@@ -5,10 +5,8 @@ layout: minimal_publication
 school: "Aalborg University"
 journal: "Masters Thesis"
 academic: true
-#categories: "Data Analysis" Ethics Privacy CivicTech IoT "Smart Cities" Telecom "Data Science" Visualization "Data Processing" Tools
-#tags: Spark Kafka Zookeeper "Jupyter/iPython Notebook" Pandas
-categories: Academic Telecom "Mobile Telecommunication" Simulation
-tags: Academic Telecom "Mobile Telecommunication" 4G OFDM Simulation
+categories: "Academic, Telecom, Mobile Telecommunication, Simulation"
+tags: "Academic, Telecom, Mobile Telecommunication, Simulation, 4G, OFDM, Simulation"
 ---
 
 ### Citation
