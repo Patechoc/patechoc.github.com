@@ -5,17 +5,11 @@ permalink: /about/
 comments: false
 ---
 
-<img src="portrait.jpg" width="50%" align="right">
-
-Proud dad, Data/Computational scientist and Engineer in Electronics.
-
-I enjoy [technology at its best](https://www.youtube.com/watch?v=b-jTRkDGTMg), data big or small and programming anything!
+Proud dad, computational scientist and engineer in electronics, I enjoy [technology at its best](https://www.youtube.com/watch?v=b-jTRkDGTMg), data big or small and programming anything!
 
 Today I want to help liberate and illustrate data to improve everyone's life, empower people and improve governance.
 
-I nurture happiness at work. I believe innovation comes from interests, autonomy and mastery: I look for mind blowing projects where I can develop/share my skills among great colleagues.
-
-I love coffee and fresh snow :)
+I nurture happiness at work. I believe innovation comes from interests and mastery: I look for interesting projects where I can develop/share my skills among great colleagues.
 
 ### Get in touch!
 <table style="width:150px">
